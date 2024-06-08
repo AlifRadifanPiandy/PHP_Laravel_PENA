@@ -1,4 +1,4 @@
-# Please Read First Before Running!!!
+# PHP_Laravel_PENA
 
 This is a Laravel project for Pekan Elektromedik Nasional 2023.
 
@@ -11,12 +11,12 @@ This is a Laravel project for Pekan Elektromedik Nasional 2023.
 
 ## Usage
 
-To login as an admin1, use the following credentials:
+To login as an admin 1, use the following credentials:
 
 -   Username: alif
 -   Password: admin
 
-To login as an admin2, use the following credentials:
+To login as an admin 2, use the following credentials:
 
 -   Username: admin
 -   Password: pena2023
